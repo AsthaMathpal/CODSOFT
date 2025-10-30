@@ -25,6 +25,7 @@ CODSOFT/
 ├── Task2/ → StudentGrade.java
 ├── Task3/ → ATMInterface.java
 ├── Task4/ → CurrencyConverter.java
+├── Task5/ → StudentManagementSystem.java
 
 
 ## Future Scope
@@ -32,5 +33,5 @@ CODSOFT/
 - Enhance exception handling and validation  
 - Explore GUI versions using JavaFX or Swing
 
-├── Task5/ → StudentManagementSystem.java
+
 └── README.md
