@@ -33,5 +33,3 @@ CODSOFT/
 - Enhance exception handling and validation  
 - Explore GUI versions using JavaFX or Swing
 
-
-└── README.md
