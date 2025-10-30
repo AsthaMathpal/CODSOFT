@@ -1,31 +1,37 @@
 CODSOFT Java Internship Repository
+Overview
 
-Welcome to my CODSOFT Java Internship repository!
-This repository contains all the tasks and projects I completed during my internship at CODSOFT, demonstrating practical applications of core Java, OOP concepts, and problem-solving skills through multiple real-world scenarios.
+This repository contains all the console-based Java projects completed during my CODSOFT Internship. Each task demonstrates the use of Core Java, OOP principles, and logical problem-solving through real-world applications.
 
- #Overview#
+Key Highlights
 
-The internship provided hands-on experience in Java programming, covering areas like:
+Developed console-based applications using Java.
 
-Object-Oriented Programming (OOP)
-Data handling and logical structures
-File management and console interaction
-Modular and reusable code design
-Real-world application simulation
-Each task is organized in its own folder, ensuring clean structure, modular development, and easy understanding.
+Applied OOP concepts: classes, objects, inheritance, and polymorphism.
+
+Focused on clean, modular, and reusable code design.
+
+Used Git & GitHub for version control.
 
 Tech Stack
 Category	Technologies
-Programming Language	Java (JDK 8+)
-IDE/Editor Used	VS Code
+Language	Java (JDK 8+)
+Editor	Visual Studio Code
 Version Control	Git & GitHub
-Build/Run Tool	Java CLI (javac/java)
+Execution	Command Line (javac/java)
+Structure
+CODSOFT/
+├── Task1/  → NumberGuessingGame.java
+├── Task2/  → StudentGrade.java
+├── Task3/  → ATMInterface.java
+├── Task4/  → CurrencyConverter.java
+├── Task5/  → StudentManagementSystem.java
+└── README.md
 
-ture Scope
+Future Scope
 
-This repository will continue evolving as I enhance the projects further.
-Planned future additions include:
+Add file handling for data persistence.
 
-GUI integration using JavaFX or Swing
-File-based persistence for saving user data
-Modular improvements and enhanced error handling
+Enhance exception handling and validation.
+
+Explore GUI versions using JavaFX or Swing.
