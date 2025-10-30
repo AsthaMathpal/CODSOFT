@@ -3,7 +3,7 @@ CODSOFT Java Internship Repository
 Welcome to my CODSOFT Java Internship repository!
 This repository contains all the tasks and projects I completed during my internship at CODSOFT, demonstrating practical applications of core Java, OOP concepts, and problem-solving skills through multiple real-world scenarios.
 
-🌟 Overview
+ #Overview#
 
 The internship provided hands-on experience in Java programming, covering areas like:
 
